@@ -17,6 +17,5 @@
   },
   "homepage": "https://github.com/oldstandstudio/gradient-generator#readme",
   "dependencies": {
-    "lodash": "^4.17.5"
   }
 }
